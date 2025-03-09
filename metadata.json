@@ -5,6 +5,9 @@
         },
         {
             "nome" : "clouddb.sql"
+        },
+        {
+            "nome" : "10000.txt"
         }
     ]
 }
